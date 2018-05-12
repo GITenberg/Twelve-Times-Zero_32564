@@ -1,0 +1,32 @@
+_repo: Twelve-Times-Zero_32564
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32564-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Browne, Howard
+    aliases:
+    - Pollard, John
+    - Carleton, H. B.
+    birthdate: 1907
+    deathdate: 1999
+    gutenberg_agent_id: '35119'
+    url: http://www.gutenberg.org/2009/agents/35119
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Browne
+description: ''
+gutenberg_issued: '2010-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32564'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Murder -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Twelve Times Zero
+url: http://www.gutenberg.org/ebooks/32564
